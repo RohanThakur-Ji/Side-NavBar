@@ -1,2 +1,2 @@
-# Side navbar
+# Side-NavBar
 **Side navbar**

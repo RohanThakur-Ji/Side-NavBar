@@ -1,2 +1,2 @@
-# Curved-Navbar
-**Trending UI design for Navigation bar**
+# Side navbar
+**Side navbar**
